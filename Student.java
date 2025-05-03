@@ -10,5 +10,8 @@ public class Student {
         System.out.println("THANK YOU");
         System.out.println("THANK YOU Sai Sai");
         System.out.println("THANK YOU RAJPUT");
+        System.out.println("THANK YOU RAJPUT");
+        System.out.println("THANK YOU RAJPUT");
+        System.out.println("THANK YOU RAJPUT");
     }
 }
